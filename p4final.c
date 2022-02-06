@@ -39,4 +39,5 @@ int main()
   input_array(size,ar);
   int sum0=sum_n_arrays(size,ar);
   out_put(size,ar,sum0); 
+  return 0;
 }
