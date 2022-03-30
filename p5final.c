@@ -21,7 +21,7 @@ float my_sqrt(float n)
 } 
 void output(float n,float sqrt_result)
 {
-    printf("the square of %f is: %f\n",n,sqrt_result);
+    printf("The square of %f is: %f\n",n,sqrt_result);
 }
 int main()
 {
